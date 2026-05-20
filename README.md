@@ -97,12 +97,5 @@ Full Stack Learning Management System.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐
