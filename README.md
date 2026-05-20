@@ -38,7 +38,6 @@
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=androidstudio)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
