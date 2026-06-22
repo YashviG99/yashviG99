@@ -85,16 +85,3 @@ Full Stack Learning Management System.
 **Tech:** Java, Spring Boot, Angular, MySQL
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-
-## 🌐
