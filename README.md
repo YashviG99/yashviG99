@@ -165,3 +165,18 @@ A Full Stack Learning Management System.
 <p align="center">
 ✨ Thanks for visiting my profile! Let's build something amazing together. 🚀
 </p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashviG99&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
