@@ -85,3 +85,7 @@ Full Stack Learning Management System.
 **Tech:** Java, Spring Boot, Angular, MySQL
 
 ---
+
+
+[![GitHub Activity Graph](https://vercel.app)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
