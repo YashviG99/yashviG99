@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,30:7C3AED,60:9333EA,100:312E81&text=Yashvi%20Gheewala&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:312E81,30:4F46E5,60:7C3AED,100:9333EA&text=Yashvi%20Gheewala&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%7C+Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products;Future+FAANG+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%26+Spring+Boot+Developer;Angular+Developer;Open+Source+Contributor;DSA+Enthusiast;Future+Software+Engineer" />
 
 <br><br>
 
 ![](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/University-PCCOE%20Pune-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Batch-2024--2028-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Student-PCCOE%20Pune-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge)
 
 <br>
 
@@ -19,28 +19,24 @@
 <br><br>
 
 <a href="https://github.com/YashviG99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel"/>
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=YashviG99&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/YashviG99?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/YashviG99?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -48,41 +44,42 @@
 
 # About Me
 
-I'm **Yashvi Gheewala**, a Software Engineering student focused on designing scalable applications, solving algorithmic problems, and building production-ready software.
+I'm **Yashvi Gheewala**, a B.Tech Information Technology student passionate about building reliable, scalable, and user-focused software.
 
-My interests span **Full Stack Development**, **Artificial Intelligence**, **Backend Engineering**, **Cloud Technologies**, and **Open Source**. I enjoy transforming ideas into reliable products while following clean architecture, security best practices, and maintainable engineering principles.
+I enjoy developing full-stack applications, designing secure backend systems, and solving algorithmic problems. My current focus is strengthening my skills in **Java**, **Spring Boot**, **Angular**, **REST APIs**, **MySQL**, and **Data Structures & Algorithms** while contributing to open-source projects.
 
-I continuously strengthen my foundations in Data Structures & Algorithms, System Design, Software Engineering, and AI so I can contribute to high-impact engineering teams building products at global scale.
+I believe in writing clean, maintainable code and continuously improving through real-world projects, collaboration, and consistent learning.
 
 ### Engineering Focus
 
-- Full Stack Product Development
-- REST API Design
-- Backend Engineering
-- AI-powered Applications
-- Software Architecture
+- Full Stack Development
+- Backend Development
+- Java Development
+- Spring Boot
+- REST API Development
+- Authentication & Authorization
 - Database Design
-- Open Source Contributions
-- Performance Optimization
-- Secure Authentication Systems
+- Software Engineering
+- Open Source Contribution
+- Data Structures & Algorithms
 
 ### Currently Working On
 
-- Production-grade Full Stack Projects
+- StudyBuddy (Full Stack Student Productivity Platform)
+- Amount Splitter
 - Spring Boot Backend Development
 - Angular Applications
-- AI Integration
-- Advanced DSA & Competitive Programming
+- Daily LeetCode Practice
+- Open Source Contributions
 - GATE CS Preparation
 
 ### Open To
 
-- Software Engineering Internships
-- Open Source Collaborations
-- AI Projects
-- Backend Engineering
-- Full Stack Development
-- Research Opportunities
+- Software Engineering Internship
+- Backend Development Internship
+- Full Stack Development Internship
+- Open Source Collaboration
+- Java Developer Roles
 
 ---
 
@@ -91,9 +88,7 @@ I continuously strengthen my foundations in Data Structures & Algorithms, System
 ## Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,html,css,mysql" />
 </p>
 
 ---
@@ -101,45 +96,32 @@ I continuously strengthen my foundations in Data Structures & Algorithms, System
 ## Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,vite"/>
-
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,vite" />
 </p>
 
 ---
 
-## Backend & Databases
+## Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ---
 
-## Cloud • DevOps • Tooling
+## Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea,vercel,netlify"/>
-
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-# AI / ML Expertise
+## Tools & Platforms
 
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Intermediate | Classical ML algorithms, model evaluation, preprocessing |
-| Deep Learning | Beginner | Neural Networks, TensorFlow fundamentals |
-| Natural Language Processing | Intermediate | LLMs, Prompt Engineering, Retrieval concepts |
-| Computer Vision | Beginner | Image classification fundamentals |
-| Generative AI | Intermediate | OpenAI APIs, Prompt Engineering, AI Workflows |
-| AI Product Development | Intermediate | Integrating AI into production applications |
-| Data Engineering | Intermediate | Data preprocessing, SQL, ETL concepts |
-| MLOps | Beginner | Model deployment fundamentals |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux,netlify,vercel" />
+</p>
 
 ---
 
@@ -148,33 +130,33 @@ I continuously strengthen my foundations in Data Structures & Algorithms, System
 <details>
 <summary>
 
-## StudyBuddy — AI Powered Student Productivity Platform
+## 📘 StudyBuddy — Full Stack Student Productivity Platform
 
 </summary>
 
 ### Overview
 
-StudyBuddy is a secure full-stack productivity platform designed for students to organize notes, manage learning resources, and streamline academic workflows.
+StudyBuddy is a secure full-stack web application built to help students organize notes and manage academic resources. The project demonstrates modern backend development using Spring Boot, JWT Authentication, REST APIs, Angular, and MySQL.
 
 | Category | Details |
 |-----------|----------|
-| **Stack** | Spring Boot, Angular, MySQL, JWT, REST API |
-| **Scale** | Multi-user Architecture |
-| **Performance** | Optimized CRUD Operations |
+| **Stack** | Spring Boot, Angular, MySQL, JWT |
+| **Architecture** | REST API |
 | **Security** | Spring Security + JWT Authentication |
-| **Impact** | Simplifies academic productivity |
-| **Repository** | https://github.com/YashviG99 |
+| **Database** | MySQL |
+| **Impact** | Student Productivity |
+| **Repository** | *(Add Repository Link)* |
 
 ### Highlights
 
-- Secure authentication using JWT
-- RESTful API architecture
-- CRUD Notes Management
-- Spring Security
+- Secure User Authentication
+- JWT Authorization
+- RESTful API Development
+- CRUD Operations
 - Angular Frontend
-- MySQL Integration
-- Production-ready Backend Structure
-- Clean layered architecture
+- MySQL Database
+- Clean Layered Architecture
+- Responsive User Interface
 
 </details>
 
@@ -183,32 +165,31 @@ StudyBuddy is a secure full-stack productivity platform designed for students to
 <details>
 <summary>
 
-## Amount Splitter — Expense Sharing Platform
+## 💰 Amount Splitter — Expense Sharing Application
 
 </summary>
 
 ### Overview
 
-A modern web application designed to simplify expense tracking and settlement calculations among groups, roommates, and friends.
+A responsive web application that simplifies group expense management by calculating settlements automatically between members.
 
 | Category | Details |
 |-----------|----------|
-| **Stack** | Angular, TypeScript, CSS, Node.js, MySQL |
-| **Scale** | Multi-user Expense Management |
-| **Performance** | Instant Settlement Calculation |
-| **Security** | Backend API Validation |
-| **Impact** | Simplifies shared expense management |
+| **Stack** | Angular, TypeScript, Node.js, MySQL |
+| **Architecture** | Client-Server |
+| **Performance** | Instant Expense Calculation |
+| **Security** | Backend Validation |
+| **Impact** | Simplifies Group Expense Tracking |
 | **Repository** | https://github.com/YashviG99/amount-splitter-angular |
 
 ### Highlights
 
 - Dynamic Expense Tracking
-- Real-time Settlement Calculation
-- Responsive UI
-- Modular Angular Architecture
-- MySQL Backend
-- Clean Component Structure
-- Easy Group Expense Management
+- Automatic Settlement Calculation
+- Responsive Design
+- Modular Angular Components
+- Backend Integration
+- Clean UI Design
 
 </details>
 
@@ -217,65 +198,61 @@ A modern web application designed to simplify expense tracking and settlement ca
 <details>
 <summary>
 
-## IdeasStrox — Community Driven Startup Platform
+## 🚀 IdeasStrox — Open Source Contributor
 
 </summary>
 
 ### Overview
 
-An open-source platform where entrepreneurs and innovators can share startup ideas, collaborate with others, and build products together.
+Contributed to an open-source startup collaboration platform by implementing user interface improvements, nested comments, edit/delete functionality, and enhancing the overall user experience.
 
 | Category | Details |
 |-----------|----------|
-| **Stack** | React, TanStack, Supabase, TypeScript |
-| **Scale** | Community Platform |
-| **Performance** | Optimized Client Rendering |
-| **Security** | Authentication & Protected Routes |
-| **Impact** | Encourages Startup Collaboration |
+| **Stack** | React, TypeScript, TanStack, Supabase |
+| **Role** | Open Source Contributor |
+| **Focus** | UI & Feature Development |
+| **Impact** | Improved User Experience |
 | **Repository** | Private Collaboration Repository |
 
-### Highlights
+### Contributions
 
-- Nested Comments
-- Community Discussions
-- Authentication
-- Protected Routes
-- Voting System
-- Edit/Delete Features
-- Modern UI
-- Open Source Collaboration
+- Implemented Nested Comments
+- Added Edit/Delete Features
+- Improved Comment UI
+- Enhanced User Experience
+- Worked with Git Branches & Pull Requests
+- Collaborated in an Open Source Team
 
 </details>
 
----
+---# Experience
 
-```
-
-# Experience
-
-### Software Engineering Student
-**B.Tech in Information Technology**  
-**PCCOE, Pune**  
+### **Software Engineering Student**
+**Pimpri Chinchwad College of Engineering (PCCOE), Pune**  
 **2024 – Present**
 
-Focused on building scalable software systems through academic learning, personal projects, and open-source contributions. Continuously improving software engineering practices, backend architecture, cloud fundamentals, and algorithmic problem-solving.
+Currently pursuing a B.Tech in Information Technology while building full-stack applications, strengthening backend development skills, and actively practicing Data Structures & Algorithms. Passionate about writing clean, maintainable code and learning modern software engineering practices through projects and open-source contributions.
 
 **Scope of Work**
 
-- Design and develop full-stack web applications
-- Build secure REST APIs using Spring Boot
-- Develop responsive Angular applications
-- Implement JWT Authentication & Authorization
-- Design relational database schemas
-- Practice Data Structures & Algorithms daily
-- Contribute to collaborative GitHub projects
-- Explore AI integration into software products
+- Develop full-stack web applications using Angular and Spring Boot
+- Design and implement RESTful APIs
+- Build secure authentication using Spring Security & JWT
+- Design relational databases with MySQL
+- Practice Data Structures & Algorithms through LeetCode
+- Contribute to open-source projects on GitHub
+- Learn software design principles and backend architecture
+- Collaborate using Git and GitHub workflows
 
 **Skills**
 
-`Java` `Spring Boot` `Angular` `TypeScript` `MySQL`
-`REST APIs` `Git` `GitHub` `Problem Solving`
-`Software Architecture` `AI` `JWT` `Linux`
+`Java` `Spring Boot` `Angular` `TypeScript` `JavaScript`
+`HTML` `CSS` `MySQL` `REST APIs`
+`Spring Security` `JWT`
+`Git` `GitHub`
+`Postman`
+`VS Code`
+`IntelliJ IDEA`
 
 ---
 
@@ -285,12 +262,11 @@ Focused on building scalable software systems through academic learning, persona
 
 | Recognition | Details |
 |--------------|---------|
-| GitHub Open Source | Active contributor to collaborative repositories |
-| Full Stack Development | Built multiple production-ready applications |
-| Backend Engineering | Designed secure REST APIs with Spring Boot |
-| DSA Journey | Consistently solving LeetCode problems |
-| Continuous Learning | Exploring AI, Cloud, and Modern Software Engineering |
-| Software Engineering | Building scalable, maintainable applications |
+| 💻 Full Stack Projects | Built and deployed multiple web applications using Angular and Spring Boot |
+| 🌱 Open Source | Contributed features and improvements to collaborative GitHub repositories |
+| 🧩 Problem Solving | Consistently practicing Data Structures & Algorithms on LeetCode |
+| 📚 Continuous Learning | Expanding knowledge in Backend Development, System Design, and Software Engineering |
+| 🚀 Project Development | Designed secure authentication systems and REST APIs for personal projects |
 
 </div>
 
@@ -298,35 +274,7 @@ Focused on building scalable software systems through academic learning, persona
 
 # Certifications
 
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws)
-
-![](https://img.shields.io/badge/AWS-Solutions%20Architect-Planned-4F46E5?style=for-the-badge&logo=amazonaws)
-
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java%20Foundations-Completed-C74634?style=for-the-badge&logo=oracle)
-
-![](https://img.shields.io/badge/Oracle-Java%20Professional-Planned-C74634?style=for-the-badge&logo=oracle)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming%20Foundations-Planned-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Database%20Management-Planned-6D28D9?style=for-the-badge)
-
----
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking%20Essentials-Planned-1BA0D7?style=for-the-badge&logo=cisco)
-
-![](https://img.shields.io/badge/Cisco-Cybersecurity-Planned-1BA0D7?style=for-the-badge&logo=cisco)
+> *Currently expanding my skills through hands-on projects and continuous learning. Certifications will be added here as they are completed.*
 
 ---
 
@@ -335,19 +283,19 @@ Focused on building scalable software systems through academic learning, persona
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Practice%20DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -358,9 +306,9 @@ Focused on building scalable software systems through academic learning, persona
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -368,7 +316,7 @@ Focused on building scalable software systems through academic learning, persona
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -378,7 +326,7 @@ Focused on building scalable software systems through academic learning, persona
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashviG99&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YashviG99&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -398,8 +346,74 @@ Focused on building scalable software systems through academic learning, persona
 
 <div align="center">
 
+> **Enable the GitHub Action in your profile repository to generate the snake animation automatically.**
+
+```text
+https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg
+```
+
 <img src="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Spring Boot
+  - Data Structures & Algorithms
+  - System Design Fundamentals
+  - Backend Development Best Practices
+
+Building:
+  - StudyBuddy
+  - Full Stack Applications
+  - Open Source Contributions
+
+Exploring:
+  - Cloud Fundamentals
+  - Software Architecture
+  - Scalable Web Applications
+
+Open To:
+  - Software Engineering Internships
+  - Backend Development Roles
+  - Full Stack Development Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YashviG99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Great software is built through continuous learning, consistency, and solving meaningful problems."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,30:4F46E5,60:7C3AED,100:9333EA"/>
