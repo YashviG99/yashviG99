@@ -112,7 +112,9 @@ I believe in writing clean, maintainable code and continuously improving through
 ## Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
@@ -272,12 +274,6 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 
 ---
 
-# Certifications
-
-> *Currently expanding my skills through hands-on projects and continuous learning. Certifications will be added here as they are completed.*
-
----
-
 # Coding Profiles
 
 <div align="center">
@@ -297,36 +293,6 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 <a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YashviG99&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -355,34 +321,6 @@ https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution
 <img src="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Spring Boot
-  - Data Structures & Algorithms
-  - System Design Fundamentals
-  - Backend Development Best Practices
-
-Building:
-  - StudyBuddy
-  - Full Stack Applications
-  - Open Source Contributions
-
-Exploring:
-  - Cloud Fundamentals
-  - Software Architecture
-  - Scalable Web Applications
-
-Open To:
-  - Software Engineering Internships
-  - Backend Development Roles
-  - Full Stack Development Opportunities
-  - Open Source Collaboration
-```
 
 ---
 
