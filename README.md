@@ -389,21 +389,11 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 
 ---
 
-
-
 # GitHub Jet Heatmap
 
 <div align="center">
 
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/main/dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/main/light.svg">
-
-<img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/YashviG99/YashviG99/main/dark.svg" width="100%">
-
-</picture>
+<img src="https://raw.githubusercontent.com/YashviG99/YashviG99/main/github-jet.svg" width="100%"/>
 
 </div>
 
