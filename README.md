@@ -52,25 +52,7 @@ I believe in writing clean, maintainable code and continuously improving through
 
 ---
 
-# GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # Tech Stack
 
@@ -346,13 +328,13 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 <img src="https://img.shields.io/badge/GeeksforGeeks-Practice%20DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<!-- <a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
