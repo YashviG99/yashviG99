@@ -50,36 +50,25 @@ I enjoy developing full-stack applications, designing secure backend systems, an
 
 I believe in writing clean, maintainable code and continuously improving through real-world projects, collaboration, and consistent learning.
 
-### Engineering Focus
+---
 
-- Full Stack Development
-- Backend Development
-- Java Development
-- Spring Boot
-- REST API Development
-- Authentication & Authorization
-- Database Design
-- Software Engineering
-- Open Source Contribution
-- Data Structures & Algorithms
+# GitHub Analytics
 
-### Currently Working On
+<div align="center">
 
-- StudyBuddy (Full Stack Student Productivity Platform)
-- Amount Splitter
-- Spring Boot Backend Development
-- Angular Applications
-- Daily LeetCode Practice
-- Open Source Contributions
-- GATE CS Preparation
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Open To
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Software Engineering Internship
-- Backend Development Internship
-- Full Stack Development Internship
-- Open Source Collaboration
-- Java Developer Roles
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashviG99&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -127,6 +116,19 @@ I believe in writing clean, maintainable code and continuously improving through
 
 ---
 
+# 2026 Goals
+
+- 🚀 Secure a Software Engineering Internship
+- 💻 Solve 500+ LeetCode Problems
+- 🌱 Contribute More to Open Source
+- ⚡ Master Spring Boot & Backend Development
+- ☁️ Learn Docker & AWS
+- 🏗️ Build Scalable Full Stack Applications
+- 🎯 Strengthen DSA & System Design
+- 📚 Prepare for GATE CS
+
+---
+
 # Featured Projects
 
 <details>
@@ -136,33 +138,89 @@ I believe in writing clean, maintainable code and continuously improving through
 
 </summary>
 
-### Overview
+### 📖 Overview
 
-StudyBuddy is a secure full-stack web application built to help students organize notes and manage academic resources. The project demonstrates modern backend development using Spring Boot, JWT Authentication, REST APIs, Angular, and MySQL.
+StudyBuddy is a secure **full-stack student productivity platform** built to help students organize notes, manage academic resources, and practice modern software engineering concepts.
+
+### 🚀 Tech Stack
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
 | Category | Details |
 |-----------|----------|
-| **Stack** | Spring Boot, Angular, MySQL, JWT |
 | **Architecture** | REST API |
-| **Security** | Spring Security + JWT Authentication |
+| **Authentication** | Spring Security + JWT |
 | **Database** | MySQL |
-| **Impact** | Student Productivity |
-| **Repository** | *(Add Repository Link)* |
+| **Status** | 🚧 In Progress |
 
-### Highlights
+### ✨ Features
 
-- Secure User Authentication
-- JWT Authorization
-- RESTful API Development
-- CRUD Operations
-- Angular Frontend
-- MySQL Database
-- Clean Layered Architecture
-- Responsive User Interface
+- 🔐 JWT Authentication
+- 👤 User Registration & Login
+- 📝 CRUD Notes Management
+- 🌐 RESTful APIs
+- 🗄️ MySQL Database
+- 🏗️ Layered Architecture
+- 📱 Responsive Angular UI
+
+### 🔗 Links
+
+> 💻 GitHub Repository: **Add your GitHub link here**
+
+> 🌍 Live Demo: **Coming Soon**
 
 </details>
 
 ---
+
+<details>
+<summary>
+
+## 📱 Intent Recovery System — Android Productivity App
+
+</summary>
+
+### 📖 Overview
+
+Intent Recovery System is an Android application developed during a hackathon to help users regain focus after digital distractions. It monitors app usage, detects distraction patterns, and reminds users of their original task using Android Accessibility Services.
+
+### 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+| Category | Details |
+|-----------|----------|
+| **Platform** | Android |
+| **Architecture** | MVVM |
+| **Database** | SQLite |
+| **Status** | ✅ Completed |
+
+### ✨ Features
+
+- 📱 Android Accessibility Service
+- 📊 Usage Stats API Integration
+- 🔄 Detects Frequent App Switching
+- 🔔 Smart Reminder Popups
+- 📝 Local Task Storage
+- ⚡ Lightweight Background Service
+- 🏆 Built During a Hackathon
+
+### 🔗 Links
+
+💻 **GitHub Repository:**  
+https://github.com/YashviG99/Intent-Recovery-System
+
+📱 **Demo:** Coming Soon
+
+</details>
+
+---
+
 
 <details>
 <summary>
@@ -171,63 +229,65 @@ StudyBuddy is a secure full-stack web application built to help students organiz
 
 </summary>
 
-### Overview
+### 📖 Overview
 
-A responsive web application that simplifies group expense management by calculating settlements automatically between members.
+Amount Splitter is a responsive full-stack web application that simplifies group expense management by automatically calculating settlements between members. It helps users track shared expenses and determine who owes whom.
+
+### 🚀 Tech Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 | Category | Details |
 |-----------|----------|
-| **Stack** | Angular, TypeScript, Node.js, MySQL |
 | **Architecture** | Client-Server |
-| **Performance** | Instant Expense Calculation |
-| **Security** | Backend Validation |
-| **Impact** | Simplifies Group Expense Tracking |
-| **Repository** | https://github.com/YashviG99/amount-splitter-angular |
+| **Database** | MySQL |
+| **Backend** | Node.js |
+| **Status** | ✅ Completed |
 
-### Highlights
+### ✨ Features
 
-- Dynamic Expense Tracking
-- Automatic Settlement Calculation
-- Responsive Design
-- Modular Angular Components
-- Backend Integration
-- Clean UI Design
+- 💰 Dynamic Expense Tracking
+- 🧮 Automatic Settlement Calculation
+- 👥 Multi-user Expense Management
+- 📱 Responsive UI
+- 🔄 Backend Integration
+- 🗄️ MySQL Database
+- ⚡ Fast Settlement Calculation
+
+### 🔗 Links
+
+💻 **GitHub Repository:**  
+https://github.com/YashviG99/amount-splitter-angular
+
+🌐 **Live Demo:**  
+https://yashviamountsplitter.netlify.app/
 
 </details>
 
 ---
 
-<details>
-<summary>
+# Open Source Contributions
 
-## 🚀 IdeasStrox — Open Source Contributor
+## 🚀 IdeasStrox
 
-</summary>
-
-### Overview
-
-Contributed to an open-source startup collaboration platform by implementing user interface improvements, nested comments, edit/delete functionality, and enhancing the overall user experience.
-
-| Category | Details |
-|-----------|----------|
-| **Stack** | React, TypeScript, TanStack, Supabase |
-| **Role** | Open Source Contributor |
-| **Focus** | UI & Feature Development |
-| **Impact** | Improved User Experience |
-| **Repository** | Private Collaboration Repository |
+Worked as an **Open Source Contributor** on a startup collaboration platform, implementing new features and improving the overall user experience.
 
 ### Contributions
 
-- Implemented Nested Comments
-- Added Edit/Delete Features
-- Improved Comment UI
-- Enhanced User Experience
-- Worked with Git Branches & Pull Requests
-- Collaborated in an Open Source Team
+- ✅ Implemented Nested Comments
+- ✅ Added Edit/Delete Functionality
+- ✅ Improved Comment UI & UX
+- ✅ Worked with Git Branches & Pull Requests
+- ✅ Built Features using React & TypeScript
+- ✅ Integrated Supabase
+- ✅ Collaborated in a Team Environment
 
-</details>
+---
 
----# Experience
+## Experience
 
 ### **Software Engineering Student**
 **Pimpri Chinchwad College of Engineering (PCCOE), Pune**  
@@ -298,6 +358,17 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 
 ---
 
+# Developer Philosophy
+
+> "First, solve the problem. Then, write the code."
+
+> "Consistency beats motivation."
+
+> "Every project teaches something new."
+
+---
+
+
 # Contribution Activity
 
 <div align="center">
@@ -308,19 +379,60 @@ Currently pursuing a B.Tech in Information Technology while building full-stack 
 
 ---
 
+# GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashviG99&theme=tokyonight"/>
+
+</div>
+
+---
+
 # Contribution Snake
 
 <div align="center">
 
-> **Enable the GitHub Action in your profile repository to generate the snake animation automatically.**
+<picture>
 
-```text
-https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg
-```
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg">
 
-<img src="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation" src="https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 </div>
+
+---
+
+# GitHub Jet Heatmap
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/main/dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashviG99/YashviG99/main/light.svg">
+
+<img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/YashviG99/YashviG99/main/dark.svg" width="100%">
+
+</picture>
+
+</div>
+
+---
+
+# Fun Facts
+
+- 💜 Backend Development Enthusiast
+- 🌱 Always Learning New Technologies
+- 💻 Love Building Full Stack Applications
+- 🧩 Passionate About DSA
+- 🚀 Open to Internship Opportunities
+- ☕ Coffee + Java = Productivity
 
 ---
 
@@ -328,11 +440,11 @@ https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:yashvi.gheewala@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/yashvi-gheewala-733410332/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -340,7 +452,7 @@ https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO.vercel.app">
+<a href="https://yashviportfolioweb.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -350,8 +462,13 @@ https://raw.githubusercontent.com/YashviG99/YashviG99/output/github-contribution
 
 <div align="center">
 
-### *"Great software is built through continuous learning, consistency, and solving meaningful problems."*
+## ⭐ Thanks for Visiting My Profile!
 
+If you like my work, feel free to connect with me or explore my repositories.
+
+**Let's build something amazing together! 🚀**
+
+</div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,30:4F46E5,60:7C3AED,100:9333EA"/>
