@@ -56,9 +56,9 @@ I believe in writing clean, maintainable code and continuously improving through
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashviG99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashviG99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
@@ -66,7 +66,7 @@ I believe in writing clean, maintainable code and continuously improving through
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashviG99&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight&hide_border=true"/>
 
 </div>
 
