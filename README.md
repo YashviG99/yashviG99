@@ -245,7 +245,7 @@ Amount Splitter is a responsive full-stack web application that simplifies group
 https://github.com/YashviG99/amount-splitter-angular
 
 🌐 **Live Demo:**  
-https://yashviamountsplitter.netlify.app/
+https://6a140e9894510632de61168f--amountsplitterapp.netlify.app/
 
 </details>
 
